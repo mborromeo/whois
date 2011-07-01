@@ -12,6 +12,7 @@ require "whois"
 
 
 # Common package properties
+# hfdjfhdsjkfhdkjfhsadkjh
 PKG_NAME    = ENV['PKG_NAME']    || Whois::GEM
 PKG_VERSION = ENV['PKG_VERSION'] || Whois::VERSION
 RUBYFORGE_PROJECT = "whois"
